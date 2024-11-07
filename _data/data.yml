@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Mario Mincu
     tagline: Programador
-    avatar: a0f6d8722e2ca13e433591c68bc5401f.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: example@email.com
